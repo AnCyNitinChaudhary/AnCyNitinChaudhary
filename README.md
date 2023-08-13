@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Chaudhary</h1>
 <h3 align="center">A passionate Web developer and Data Science enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiA3KSRgNqAAxUY7DgGHVe2AM8QMygRegUIARCtAg..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=software%20engineer%20animated%20coding%20gif&hl=en&ved=2ahUKEwiA3KSRgNqAAxUY7DgGHVe2AM8QMygRegUIARCtAg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ancynitinchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ancynitinchaudhary" /> </p>
 
 - 🔭 I’m currently working on **Web Development by using MERN Stack**
